@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/EiffaTariq/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EiffaTariq/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -49,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/EiffaTariq/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EiffaTariq/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/EiffaTariq/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
